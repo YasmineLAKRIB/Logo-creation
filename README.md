@@ -1,35 +1,31 @@
-# Logo-creation
-This is a creative project where you are  free to create your logo for OPEN MINDS club  depending on the theme you choose , show us your talent 
+# Logo Looney Challenge
+This is a creative project where you are free to recreate a logo for OpenMindsClub depending on a theme of your choosing. You have a deadline until september to submit your design, where our audience on social media will get to decide which logo is the more creative amongst those of the participants. All clear? Show us your talent!
 
-[img]https://www.pixenli.com/miniature/cGivbxHg[/img]
-[b][url=https://www.pixenli.com/image/cGivbxHg]Voir l'image en grand[/url][/b]
+![Project logo](https://www.pixenli.com/image/cGivbxHg)
 
 
-##Usage 
-- Computer or phone 
+## Usage 
+- Digital art or drawing on a piece of paper, anything that allows you to express your idea.
 
-##Tasks
-- Create a logo for OPEN MINDS club for the themes given or from your choice, feel free.
-Or create a Mashup with another logo.
-- Make it with any logiciel you want and put it in png format 
-- Have fun 
+## Tasks
+- Create a logo for OpenMindsClub, feel free to get inspired by a theme of your choosing or by one of the themes we suggest down below. Mashups with another logo are permitted as well.
+- Make it with any software you want and upload it to this directory in an image format.
+- Have fun!
 
- ##Mashup example : logo OPEN MINDS with style Coca Cola.
+ ### Mashup example : 
+ `logo OpenMindsClub in Coca Cola style.`
  
- ##Theme list:
+ ## Theme list:
 -	Environment
 -	Biology
 -	Chemistry
 -	8-bit
--	Events period 
+-	Time period (ex: Medieval, Victorian... etc.)
 -	Food party
 -	Exotic
--	Rock n roll
--	Art
--	Hackathon etc. 
+-	Rock n Roll
+-	Art etc. 
 
-##Resources
-- Illustrator 
 
 
 
